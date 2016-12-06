@@ -33,6 +33,9 @@
 		</div>
 		<br class="clear" />
 	</div>
+*/
+Testando o Git
+/*
 	<div id="footer">Designed by <a href="http://www.elegantthemes.com">Elegant WordPress Themes</a></div>
 </div>
 
